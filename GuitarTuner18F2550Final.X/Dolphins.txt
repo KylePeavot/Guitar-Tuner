@@ -1,0 +1,2 @@
+A text file to show that this is the actual final version of this project. Can be found on my Github. This folder was also originally called "ActualProperRealFinalGuitarTuner18F2550.X". I was desperate during my A-Levels.
+	- 03/12/2018 Kyle
